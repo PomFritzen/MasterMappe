@@ -7,24 +7,20 @@ public class l4o2 {
         Scanner scanner = new Scanner(System.in);
 
         String name = scanner.next();
-
-
-        boolean keepLoop = false;
-
-        while(!keepLoop) {
-            String guessName = scanner.next();
-
-            int nameToInt = (int) guessName.charAt(0);
-            int realNameToInt = (int) name.charAt(0);
-
-            if (guessName.equals(name)) {
-                System.out.println("Du gættede rigtigt");
-            } else if (nameToInt < realNameToInt) {
-                System.out.println("Mit navn er efter i alfabetet. ");
-            } else if (nameToInt > realNameToInt){
+        String nameCaseIncensitive = name.toLowerCase();
+        String guessName;
+        String guessNameCaseIncensitive;
+        do {
+            guessName = scanner.next();
+            guessNameCaseIncensitive = guessName.toLowerCase();
+            int compare = guessNameCaseIncensitive.compareTo(nameCaseIncensitive);
+            if (compare < 0) {
+                System.out.println("Mit navn er efter i alfabetet.");
+         } else if (compare > 0) {
                 System.out.println("Mit navn er før i alfabetet.");
-            }
-        }
+         }
 
+        } while (!guessNameCaseIncensitive.equals(nameCaseIncensitive));
+        System.out.println("Du gættede rigtigt.");
     }
 }

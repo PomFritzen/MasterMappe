@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195f25cb-d211-4606-8935-4b8fd75ff03e" name="Default Changelist" comment="" />
+    <list default="true" id="195f25cb-d211-4606-8935-4b8fd75ff03e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lektioner/Lektion4/l4o2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lektioner/Lektion4/l4o2.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,28 +27,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="43" />
+          <entry key="java" value="46" />
           <entry key="minFilEngelsk" value="1" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="46" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="9528" />
+          <entry key="java" value="11158" />
           <entry key="minFilEngelsk" value="192" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9528" />
+          <entry key="JAVA" value="11158" />
           <entry key="PLAIN_TEXT" value="202" />
         </counts>
       </usages-collector>
@@ -55,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -69,6 +73,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,6 +113,7 @@
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o4.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o2.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o3.java" />
+        <option value="$PROJECT_DIR$/Experiments/src/Gay/bigGay.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" />
       </list>
     </option>
@@ -122,6 +130,7 @@
     <option name="width" value="834" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,6 +142,24 @@
             <path>
               <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542355423692" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542668776111" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -182,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3o2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lektion3.l3o2" />
-      <module name="Lektioner" />
+    <configuration name="bigGay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gay.bigGay" />
+      <module name="Experiments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lektion3.*" />
+          <option name="PATTERN" value="Gay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3o3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lektion3.l3o3" />
+    <configuration name="l3o2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion3.l3o2" />
       <module name="Lektioner" />
       <extension name="coverage">
         <pattern>
@@ -235,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.l3o3" />
       <item itemvalue="Application.l3o4" />
       <item itemvalue="Application.Pyramids" />
       <item itemvalue="Application.l3o2" />
       <item itemvalue="Application.l4o2" />
+      <item itemvalue="Application.bigGay" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.l4o2" />
+        <item itemvalue="Application.bigGay" />
         <item itemvalue="Application.l3o2" />
         <item itemvalue="Application.l3o4" />
         <item itemvalue="Application.Pyramids" />
-        <item itemvalue="Application.l3o3" />
       </list>
     </recent_temporary>
   </component>
@@ -261,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541149973418</updated>
-      <workItem from="1542581645942" duration="224000" />
+      <workItem from="1542581645942" duration="6596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224000" />
+    <option name="totallyTimeSpent" value="6596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -281,10 +308,10 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.30963856" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -408,13 +435,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/minFilEngelsk.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiments/src/Gay/dgay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion8/Cinema.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -552,10 +572,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Experiments/src/Gay/bigGay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge04/src/Bonus/Wordify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiments/src/Gay/dgay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
