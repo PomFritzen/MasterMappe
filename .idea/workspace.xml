@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f25cb-d211-4606-8935-4b8fd75ff03e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lektioner/Lektion4/l4o2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lektioner/Lektion4/l4o2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,28 +27,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="46" />
+          <entry key="java" value="53" />
           <entry key="minFilEngelsk" value="1" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="53" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="11158" />
+          <entry key="java" value="12448" />
           <entry key="minFilEngelsk" value="192" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11158" />
+          <entry key="JAVA" value="12448" />
           <entry key="PLAIN_TEXT" value="202" />
         </counts>
       </usages-collector>
@@ -56,11 +56,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -109,12 +154,14 @@
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion1/l1o4.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion1/Min.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion2/l204.java" />
-        <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o3.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o4.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o2.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o3.java" />
         <option value="$PROJECT_DIR$/Experiments/src/Gay/bigGay.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java" />
+        <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o3.java" />
+        <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o4.java" />
+        <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4o5.java" />
       </list>
     </option>
   </component>
@@ -159,7 +206,14 @@
               <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
               <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lektion4" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542668776111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542795393546" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -196,19 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.l4o2">
-    <configuration name="Pyramids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pyramids.Pyramids" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pyramids.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.l4o5">
     <configuration name="bigGay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gay.bigGay" />
       <module name="Experiments" />
@@ -235,19 +277,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3o4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lektion3.l3o4" />
-      <module name="Lektioner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lektion3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="l4o2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lektion4.l4o2" />
       <module name="Lektioner" />
@@ -261,20 +290,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="l4o4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion4.l4o4" />
+      <module name="Lektioner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l4o5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lektion4.l4o5" />
+      <module name="Lektioner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.l3o4" />
-      <item itemvalue="Application.Pyramids" />
       <item itemvalue="Application.l3o2" />
       <item itemvalue="Application.l4o2" />
       <item itemvalue="Application.bigGay" />
+      <item itemvalue="Application.l4o4" />
+      <item itemvalue="Application.l4o5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.l4o5" />
+        <item itemvalue="Application.l4o4" />
         <item itemvalue="Application.l4o2" />
         <item itemvalue="Application.bigGay" />
         <item itemvalue="Application.l3o2" />
-        <item itemvalue="Application.l3o4" />
-        <item itemvalue="Application.Pyramids" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +343,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541149973418</updated>
-      <workItem from="1542581645942" duration="6596000" />
+      <workItem from="1542581645942" duration="13185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6596000" />
+    <option name="totallyTimeSpent" value="13185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -527,13 +582,6 @@
     <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/src/Pyramids/Pyramids.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -551,24 +599,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -579,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge04/src/Bonus/Wordify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Experiments/src/Gay/dgay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -593,10 +620,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge04/src/Bonus/Wordify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3o3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4o5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
