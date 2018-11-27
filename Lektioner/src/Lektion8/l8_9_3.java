@@ -1,6 +1,6 @@
 package Lektion8;
 
-public class l8o3 {
+public class l8_9_3 {
     public static void main(String[] args) {
         Cinema c = new Cinema(new int[]{6,5,4,3,3,7,10});
         c.booking(1, 2);

@@ -1,7 +1,7 @@
 package Lektion4;
 import java.util.Scanner;
 
-public class l4o1 {
+public class l4_5_2 {
     public static void main(String[] args) {
         Scanner ULTIMATESCANNER = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package Lektion5;
 
-public class l5o2 {
+public class l5_6_2 {
     public static void main(String[] args) {
         Car c = new Car("Citroen", "SV 34234", "Rød");
         Car c2 = new Car("Citroen", "SK 34233", "Blå");

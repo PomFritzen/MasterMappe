@@ -2,7 +2,7 @@ package Lektion3;
 
 import java.util.Scanner;
 
-public class l3o3 {
+public class l3_4_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean leapYearCheck;

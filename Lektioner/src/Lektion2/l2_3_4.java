@@ -2,7 +2,7 @@ package Lektion2;
 
 import java.util.Scanner;
 
-public class l204 {
+public class l2_3_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[] values = new double[3];

@@ -1,6 +1,6 @@
 package Lektion5;
 
-public class l5o1 {
+public class l5_6_1_1 {
     public static void main(String[] args) {
 
         Point p1 = new Point (2,2);
