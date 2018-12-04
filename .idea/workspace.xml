@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195f25cb-d211-4606-8935-4b8fd75ff03e" name="Default Changelist" comment="" />
+    <list default="true" id="195f25cb-d211-4606-8935-4b8fd75ff03e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtilsPapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektioner/test/Lektion7/Test/TestArrayUtilsPapa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektioner/Lektioner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lektioner/Lektioner.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,42 +18,58 @@
     <session id="1608146996">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.53" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="94" />
+          <entry key="java" value="92" />
           <entry key="minFilEngelsk" value="1" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="94" />
+          <entry key="JAVA" value="92" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="190" />
-          <entry key="java" value="19768" />
+          <entry key="java" value="19727" />
           <entry key="minFilEngelsk" value="192" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19768" />
+          <entry key="JAVA" value="19727" />
           <entry key="PLAIN_TEXT" value="383" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="727064206">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="670" />
         </counts>
       </usages-collector>
     </session>
@@ -58,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion5/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="663">
               <caret line="53" column="5" selection-start-line="48" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
@@ -67,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion6/Car2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
+            <state relative-caret-position="850">
               <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
@@ -76,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="9" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,10 +107,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiments/src/Far_solutions/Opgave4_4_far.java">
+        <entry file="file://$PROJECT_DIR$/Lektioner/test/Lektion7/Test/TestArrayUtilsPapa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,10 +119,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4_5_3.java">
+        <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtilsPapa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/l7_9_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="221">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
@@ -118,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion6/l6_6_3_rep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="68">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
@@ -139,6 +165,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Lektioner/src/Lektion2/l2o2.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion2/l2o3.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion3/l3o1.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/Dato.java" />
@@ -187,9 +214,8 @@
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion6/Car2.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion7/l7_9_1.java" />
         <option value="$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtils.java" />
-        <option value="$PROJECT_DIR$/Experiments/src/Far_solutions/ne.java" />
-        <option value="$PROJECT_DIR$/Experiments/src/Far_solutions/Opgave4_4_far.java" />
-        <option value="$PROJECT_DIR$/Lektioner/src/Lektion4/l4_5_3.java" />
+        <option value="$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtilsPapa.java" />
+        <option value="$PROJECT_DIR$/Lektioner/test/Lektion7/Test/TestArrayUtilsPapa.java" />
       </list>
     </option>
   </component>
@@ -199,11 +225,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="44" />
-    <option name="y" value="114" />
-    <option name="width" value="834" />
-    <option name="height" value="780" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="43" />
+    <option name="width" value="1755" />
+    <option name="height" value="1078" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -211,7 +237,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,22 +257,43 @@
               <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasterMappe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasterMappe" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektioner" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543932168756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543671244650" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,33 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.l4_5_3">
-    <configuration name="Opgave4_4_far" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Far_solutions.Opgave4_4_far" />
-      <module name="Experiments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Far_solutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="l4_5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lektion4.l4_5_3" />
-      <module name="Lektioner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lektion4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestArrayUtilsPapa">
     <configuration name="l6_6_3_rep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lektion6.l6_6_3_rep" />
       <module name="Lektioner" />
@@ -330,17 +352,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestArrayUtilsPapa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lektioner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion7.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lektion7.Test" />
+      <option name="MAIN_CLASS_NAME" value="Lektion7.Test.TestArrayUtilsPapa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayUtilsPapa.arrayToString_Should_provide_space_delimited_string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lektioner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lektion7.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lektion7.Test" />
+      <option name="MAIN_CLASS_NAME" value="Lektion7.Test.TestArrayUtilsPapa" />
+      <option name="METHOD_NAME" value="arrayToString_Should_provide_space_delimited_string" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.l6_7_3" />
       <item itemvalue="Application.l6_6_3_rep" />
       <item itemvalue="Application.l7_9_1" />
-      <item itemvalue="Application.Opgave4_4_far" />
-      <item itemvalue="Application.l4_5_3" />
+      <item itemvalue="JUnit.TestArrayUtilsPapa.arrayToString_Should_provide_space_delimited_string" />
+      <item itemvalue="JUnit.TestArrayUtilsPapa" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.l4_5_3" />
-        <item itemvalue="Application.Opgave4_4_far" />
+        <item itemvalue="JUnit.TestArrayUtilsPapa" />
+        <item itemvalue="JUnit.TestArrayUtilsPapa.arrayToString_Should_provide_space_delimited_string" />
         <item itemvalue="Application.l7_9_1" />
         <item itemvalue="Application.l6_6_3_rep" />
         <item itemvalue="Application.l6_7_3" />
@@ -358,17 +410,48 @@
       <option name="presentableId" value="Default" />
       <updated>1541149973418</updated>
       <workItem from="1542581645942" duration="20774000" />
-      <workItem from="1543241023077" duration="18819000" />
-      <workItem from="1543565749511" duration="408000" />
-      <workItem from="1543680391835" duration="723000" />
+      <workItem from="1543241023077" duration="18363000" />
+      <workItem from="1543660343529" duration="9375000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 13h 32m 22s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 13h 38m 31s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 13h 46m 55s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 13h 49m 24s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 06m 02s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 23m 02s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 26m 04s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 27m 47s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 28m 55s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayUtilsPapa - 2018.12.01 at 14h 29m 54s.xml">
+      <configuration name="TestArrayUtilsPapa" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40724000" />
+    <option name="totallyTimeSpent" value="48512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="68" y="43" width="1755" height="1078" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -376,15 +459,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12660944" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24188791" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32804233" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.32910052" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.30963856" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3089947" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -409,7 +492,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lektioner/Lektion2/l2o1.java" />
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion2/l2_3_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -504,13 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="2211" selection-start-line="2211" selection-end-line="2211" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/Versionsstyring/src/Language/Skrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -532,19 +608,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/src/Pyramids/Pyramids.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/src/sinus/Sinus.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/Main.java" />
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/src/Pyramids/Pyramids.java" />
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge03/src/sinus/Sinus.java" />
     <entry file="file://$PROJECT_DIR$/Experiments/src/Gay/bigGay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -559,13 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge04/src/Bonus/Wordify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DTU/Indledende programmering/Løsningsforslag/Uge04/src/Bonus/Wordify.java" />
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion3/l3_4_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -577,6 +637,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,6 +652,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -626,6 +698,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,6 +722,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4_5_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -701,56 +783,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion5/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="663">
           <caret line="53" column="5" selection-start-line="48" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion6/Car2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
+        <state relative-caret-position="850">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/l7_9_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion6/l6_6_3_rep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiments/src/Far_solutions/Opgave4_4_far.java">
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="9" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion4/l4_5_3.java">
+    <entry file="file://$PROJECT_DIR$/Lektioner/test/Lektion7/Test/TestArrayUtilsPapa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="340">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektioner/src/Lektion7/ArrayUtilsPapa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -806,7 +893,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Versionsstyring</last-edited>
+          <last-edited>MasterMappe</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
